@@ -5,16 +5,20 @@ Netflix Data Analysis Using Tableau:
 ![image](https://user-images.githubusercontent.com/105827291/231644129-77540fc8-3529-467e-b6df-95546972380f.png)
 
  STEPS:
+ 
  1.Data subset collected from online
+ 
  2.Loading Libraries
+ 
  3.Data Cleaning & Finding Missing values
+ 
  4.Data Visualization
  
 Technologies used:
 
 •	MySQL | SQL Server
 
-.python
+. Python
 
 •	Tableau
 
