@@ -54,6 +54,12 @@ DATA VISUALIZATION:
 ![image](https://user-images.githubusercontent.com/105827291/231643897-09f9d0e3-b3b3-4a25-886b-ea94d42557e8.png)
 
 
+Covid-19-Data-Visualization-with-Tableau:
+
+![image](https://user-images.githubusercontent.com/105827291/231932073-79a66586-f0c2-4f79-b469-2828579cce3e.png)
+
+![image](https://user-images.githubusercontent.com/105827291/231932206-53615979-7623-4621-97bf-675ca32ce03d.png)
+
 
 
 
